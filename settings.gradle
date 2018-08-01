@@ -3,4 +3,6 @@ include 'eureka-client'
 include 'eureka-server'
 include 'eureka-consumer'
 include 'eureka-consumer-ribbon'
+include 'eureka-consumer-feign'
+include 'eureka-consumer-feign-uploader'
 

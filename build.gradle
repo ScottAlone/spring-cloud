@@ -26,15 +26,11 @@ allprojects {
     }
 }
 
-group 'com.com.test'
+group 'com.test'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
 
 repositories {
     mavenCentral()
-}
-
-dependencies {
-    compile('org.springframework.boot:spring-boot-starter-web')
 }
